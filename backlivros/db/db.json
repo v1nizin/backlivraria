@@ -1,0 +1,45 @@
+{
+  "autores": [
+    {
+      "autor": "JK Rowling",
+      "id": 1
+    }
+  ],
+  "categorias": [
+    {
+      "categoria": "Romance",
+      "id": 2
+    },
+    {
+      "categoria": "Aventura",
+      "id": 3
+    },
+    {
+      "categoria": "Terror",
+      "id": 4
+    },
+    {
+      "categoria": "Suspense",
+      "id": 5
+    }
+  ],
+  "editora": [
+    {
+      "editora": "Editora Cristal",
+      "id": 6
+    },
+    {
+      "editora": "Suma",
+      "id": 7
+    }
+  ],
+  "livros": [
+    {
+      "Nome":"A menina que roubava livros",
+      "Autor": "Markus Zusak",
+      "editora": " Intrínseca",
+      "Categoria": "Drama",
+      "id": 8
+    }
+  ]
+}
